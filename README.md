@@ -84,6 +84,6 @@ Deployment as a web application
 Competition: House Prices – Advanced Regression Techniques
 Public Score: 0.18394
 
-👤 Author- Darsh Jilka
+👤 Author
 
 Darsh Jilka
