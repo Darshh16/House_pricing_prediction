@@ -1,4 +1,5 @@
 🏠 House Price Prediction using Machine Learning
+kaggle competition link - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 📌 Project Overview
 
 This project focuses on building an end-to-end machine learning pipeline to predict house prices using structured real-estate data. The goal was not just to train a model, but to follow a proper data science workflow including EDA, feature engineering, regularization, and model evaluation.
